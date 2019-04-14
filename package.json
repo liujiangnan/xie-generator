@@ -1,0 +1,22 @@
+{
+  "name": "xie-generator",
+  "bin": {
+    "x": "./bin/x"
+  },
+  "version": "1.0.2",
+  "devDependencies": {},
+  "directories": {
+    "bin": "./bin"
+  },
+  "description": "xie-cn脚手架",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "liujiangnan",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.11.0"
+  }
+}
